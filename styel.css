@@ -1,0 +1,68 @@
+.col-sm-1{
+background-color: red;
+width: 100px;
+height: 100px;
+ transition: 1s;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.col-1{
+background-color: green;
+height: 100px;
+ transition: 1s;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.col-md-1{
+background-color: blue;
+height: 100px;
+ transition: 1s;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+
+.col-lg-1{
+background-color: blueviolet;
+height: 100px;
+ transition: 1s;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
